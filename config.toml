@@ -4,7 +4,7 @@ title = "Vivek Singh"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-112034468-1"
 theme = "hugo-sustain"
 
 [permalinks]
